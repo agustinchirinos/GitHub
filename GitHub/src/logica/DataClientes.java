@@ -5,4 +5,9 @@ public class DataClientes {
 		// TODO Esbozo de método generado automáticamente
 
 	}
+	
+	private void metodoPrueba() {
+		// TODO Esbozo de método generado automáticamente
+
+	}
 }
