@@ -11,6 +11,7 @@ public class DataProveedores {
 
 	}
 	
+
 	private void metodo5() {
 		// TODO Esbozo de método generado automáticamente
 
@@ -21,4 +22,10 @@ public class DataProveedores {
 
 	}
 	
+
+	private void metodo7() {
+		// TODO Esbozo de método generado automáticamente
+
+	}
+
 }
