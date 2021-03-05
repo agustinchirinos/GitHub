@@ -10,4 +10,15 @@ public class DataProveedores {
 		// TODO Esbozo de método generado automáticamente
 
 	}
+	
+	private void metodo5() {
+		// TODO Esbozo de método generado automáticamente
+
+	}
+	
+	private void metodo6() {
+		// TODO Esbozo de método generado automáticamente
+
+	}
+	
 }
