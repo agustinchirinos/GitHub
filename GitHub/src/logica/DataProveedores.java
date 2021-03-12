@@ -20,6 +20,8 @@ public class DataProveedores {
 	private void metodo6() {
 		// TODO Esbozo de método generado automáticamente
 
+		
+		
 	}
 	
 
